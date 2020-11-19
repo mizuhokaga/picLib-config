@@ -55,4 +55,4 @@ spring:
     stream:
       kafka:
         binder:
-          brokers: 347.103.18.203
+          brokers: 47.103.18.203
